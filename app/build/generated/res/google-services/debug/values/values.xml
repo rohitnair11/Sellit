@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">5285311762-jjm8pl2bh5t91rhq9vr27kojv1m1pljk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sellit1-7b015.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">5285311762</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjfHKN7PNAi5XdEdP1_jQbDZWBhZwuezw</string>
+    <string name="google_app_id" translatable="false">1:5285311762:android:36a66afc5fa00611</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjfHKN7PNAi5XdEdP1_jQbDZWBhZwuezw</string>
+    <string name="google_storage_bucket" translatable="false">sellit1-7b015.appspot.com</string>
+    <string name="project_id" translatable="false">sellit1-7b015</string>
+</resources>

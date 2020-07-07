@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "5285311762",
+    "firebase_url": "https://sellit1-7b015.firebaseio.com",
+    "project_id": "sellit1-7b015",
+    "storage_bucket": "sellit1-7b015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5285311762:android:36a66afc5fa00611",
+        "android_client_info": {
+          "package_name": "rohit.com.sellit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5285311762-jjm8pl2bh5t91rhq9vr27kojv1m1pljk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfHKN7PNAi5XdEdP1_jQbDZWBhZwuezw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

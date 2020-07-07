@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_x_white.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_x_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_android.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_save_white.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_back_arrow.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Sellit1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back_arrow.png"
+    }
+]
